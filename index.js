@@ -32,14 +32,19 @@ const emoji="🤞🏽";
 console.log(emoji);
 
 let phoneNumber=9808190329;
-phonenumber=9808566142;
+phoneNumber=9808566142;
 console.log(phoneNumber);
 
 const isValid=true; //Boolean
 console.log(isValid);
 
+//variable hoisting
+let A; // (Local)afu vanda agadhi lai matra herxa 
+console.log(A);
 
-
+B="Kathmandu"
+console.log(B);
+var B; //global scope herxa
 
 
 
