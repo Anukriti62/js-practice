@@ -1,3 +1,3 @@
 # js-practice
-I am about to start js from today
+I am about to start js from today using github cli.
 
