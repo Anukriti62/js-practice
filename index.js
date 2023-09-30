@@ -14,12 +14,32 @@ Let:changeable variable
 const: constant (which never chnages)
 */
 
-let p="ANU";
+let identify="ANU"; //string
 p="Kriti";
-console.log(p);
+console.log(identify);
 
-const per="Anubhav"
-console.log(per);
+const brother="Anubhav"
+console.log(brother);
 
-const pi="3.14";
+const pi=3.14; //Number
 console.log(pi);
+
+let a="Nikita";
+a="NIKKY";
+console.log(a);
+
+const emoji="🤞🏽";
+console.log(emoji);
+
+let phoneNumber=9808190329;
+phonenumber=9808566142;
+console.log(phoneNumber);
+
+const isValid=true; //Boolean
+console.log(isValid);
+
+
+
+
+
+
